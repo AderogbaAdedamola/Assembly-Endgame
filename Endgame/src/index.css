@@ -120,7 +120,7 @@ span.chip.lost::before {
     padding: 5px;
 }
 .keyboard{
-    width: 480px;
+    max-width: 450px;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
